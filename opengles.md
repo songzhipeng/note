@@ -11,3 +11,7 @@ GPU可以并行地做浮点运算。事实上，图像处理和渲染就是在�
 `
 precision highp float;
 `
+
+#参考
+http://objccn.io/issue-21-7/
+http://objccn.io/issue-21-8/
